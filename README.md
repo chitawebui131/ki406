@@ -3,5 +3,4 @@
 
 ```sh
 cd ki406
-npm i
 ```
